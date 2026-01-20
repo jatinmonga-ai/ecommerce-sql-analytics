@@ -1,4 +1,4 @@
-# Capstone SQL & Analytics Project
+# Customer Revenue Analysis
 
 **Description:**
 This project demonstrates advanced SQL analytics using a sample e-commerce dataset. The workflow includes creating tables from an **online DB Fiddle**, importing them into a **local PostgreSQL database**, and performing analysis in **Jupyter Notebook**. The focus is on **window functions**, customer spend analysis, and deriving **business insights**.
